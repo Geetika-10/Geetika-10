@@ -1,5 +1,5 @@
 ## About Me
-I am Geetika, a PhD scholar at the Distributed Computing Learning Lab (DCLL) at Indraprastha Institute of Information Technology (IIIT-D). My research focuses on Mathematical Optimization in Machine Learning. I work particularly in Federated Learning.
+I am Geetika, a PhD scholar at the Distributed Computing Learning Lab (DCLL) at Indraprastha Institute of Information Technology (IIIT-D). My research focuses on Mathematical Optimization in Machine Learning. I particularly work in Federated Learning.
 
 ## Research Interests
 Federated Learning Optimization, Convergence of FL algorithms, Understanding why ML/FL work the way they do
